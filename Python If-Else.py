@@ -7,3 +7,8 @@ import os
 import random
 import re
 import sys
+
+n = int(input("Enter a Number: "))
+
+if (n % 2) == 0:
+    print("{0} Weird".format(n))
