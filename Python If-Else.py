@@ -11,7 +11,7 @@ import sys
 if __name__ == '__main__':
     n = int(input().strip())
 
-# Python If-Else - Hacker Rank Solution From Here
+# Hacker Rank Solution From Here
 
 if n % 2 == 1:
     print("Weird")
