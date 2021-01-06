@@ -2,8 +2,8 @@
 # Submit: HackerRank
 # Date: 06/01/2021
 
-dic = []
-marks = []
+dic = {}
+marks = {}
 
 if __name__ == '__main__':
     for _ in range(int(input())):
