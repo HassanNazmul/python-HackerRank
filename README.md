@@ -1,4 +1,4 @@
 ## python HackerRank Solution
 
-Author: Nazmul Hassan
+Author: Nazmul Hassan\
 Submit: HackerRank
