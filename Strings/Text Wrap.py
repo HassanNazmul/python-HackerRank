@@ -4,8 +4,6 @@
 
 # Hacker Rank Solution From Here
 
-import textwrap
-
 
 def wrap(string, max_width):
     string = [c for c in string]

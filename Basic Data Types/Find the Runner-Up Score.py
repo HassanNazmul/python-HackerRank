@@ -9,4 +9,4 @@ if __name__ == '__main__':
 # Hacker Rank Solution From Here
 
 arr.sort()
-print(arr[(arr.index(max(arr)))-1])
+print(arr[(arr.index(max(arr))) - 1])

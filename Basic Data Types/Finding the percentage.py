@@ -14,5 +14,5 @@ if __name__ == '__main__':
 # Hacker Rank Solution From Here
 
 output = list(student_marks[query_name])
-per = sum(output)/len(output):
+per = sum(output) / len(output)
 print("%.2f" % per)
